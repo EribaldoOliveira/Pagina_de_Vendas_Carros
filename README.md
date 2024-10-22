@@ -2,8 +2,6 @@
 
 Este projeto é uma aplicação simples que permite aos usuários cadastrar seus veículos para venda. O objetivo é facilitar o processo de venda, permitindo que os vendedores descrevam as características do veículo e marquem os opcionais que ele possui para uma melhor visualização por potenciais compradores.
 
-Este é um projeto de uma página de vendas de veículos onde os usuários podem cadastrar seus carros para venda. O formulário permite que o vendedor descreva o veículo e adicione informações relevantes para uma melhor visualização por potenciais compradores.
-
 ![image](https://github.com/user-attachments/assets/edf14a99-c899-44aa-a1b9-8b14dccc7f08)
 
 ## Tecnologias Utilizadas
