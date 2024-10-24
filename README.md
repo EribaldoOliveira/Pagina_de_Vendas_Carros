@@ -2,7 +2,8 @@
 
 Este projeto é uma aplicação simples que permite aos usuários cadastrar seus veículos para venda. O objetivo é facilitar o processo de venda, permitindo que os vendedores descrevam as características do veículo e marquem os opcionais que ele possui para uma melhor visualização por potenciais compradores.
 
-![image](https://github.com/user-attachments/assets/edf14a99-c899-44aa-a1b9-8b14dccc7f08)
+![image](https://github.com/user-attachments/assets/49aabb3e-421f-431a-ab89-b33eac4c8eb8)
+
 
 ## Tecnologias Utilizadas
 
